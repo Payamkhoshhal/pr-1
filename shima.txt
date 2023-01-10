@@ -1,1 +1,4 @@
-i hate you shima.
+select * from mytable;
+select * ftrom yourtable;
+
+select * from thiertable;
