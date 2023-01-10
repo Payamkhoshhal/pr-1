@@ -5,3 +5,6 @@ select * from thiertable;
 
 select * from 
 afterbranch
+
+select * from 
+aftercommit in branch
